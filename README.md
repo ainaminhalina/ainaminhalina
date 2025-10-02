@@ -1,5 +1,4 @@
-### 👋 Hi, I'm Aina!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi, I'm Aina! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Full Stack Developer with 3.5+ years of experience specializing in the TALL (Tailwind, Alpine.js, Laravel, Livewire) stack. Skilled in building scalable, interactive web applications with clean architecture and efficient workflows. Strong problem-solver with proven ability to design and deliver end-to-end systems in the modern Laravel ecosystem.
 
