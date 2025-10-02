@@ -27,12 +27,7 @@ Here are some of the technologies I'm proficient in:
    <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  </a>
    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
 </p>
-
-[![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainaminhalina&show_icons=true&theme=dark)](https://github.com/ainaminhalina/github-readme-stats)
