@@ -1,16 +1,38 @@
-## Hi there 👋
+### 👋 Hi, I'm Aina!
 
-<!--
-**ainaminhalina/ainaminhalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer with 3.5+ years of experience specializing in the TALL (Tailwind, Alpine.js, Laravel, Livewire) stack. Skilled in building scalable, interactive web applications with clean architecture and efficient workflows. Strong problem-solver with proven ability to design and deliver end-to-end systems in the modern Laravel ecosystem.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Currently Up To
+
+* 🔭 Learning React.js and building a full-stack application with it.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I'm proficient in:
+
+<p align="left">
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  </a>
+   <a href="https://alpinejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" alt="Alpine.js">
+  </a>
+   <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white" alt="Livewire">
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </a>
+</p>
+
+[![Aina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ainaminhalina&show_icons=true&theme=dark)](https://github.com/ainaminhalina/github-readme-stats)
