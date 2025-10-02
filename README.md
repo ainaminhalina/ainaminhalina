@@ -1,4 +1,25 @@
-### 👋 Hi, I'm Aina!
+<style>
+.wave {
+    animation-name: wave-animation;  /* Refers to the name of your animation */
+    animation-duration: 2.5s;        /* How long the animation lasts */
+    animation-iteration-count: infinite;  /* Makes the animation repeat forever */
+    transform-origin: 70% 70%;       /* Pivot point of the animation */
+    display: inline-block;
+}
+
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+   10% { transform: rotate(14.0deg) }  /* The following five values can be tweaked to make the waving more or less dramatic */
+   20% { transform: rotate(-8.0deg) }
+   30% { transform: rotate(14.0deg) }
+   40% { transform: rotate(-4.0deg) }
+   50% { transform: rotate(10.0deg) }
+   60% { transform: rotate( 0.0deg) }  /* Reset for the last half to pause */
+  100% { transform: rotate( 0.0deg) }
+}
+</style>
+
+# Hi, I'm Aina <span class="wave">👋</span>
 
 Full Stack Developer with 3.5+ years of experience specializing in the TALL (Tailwind, Alpine.js, Laravel, Livewire) stack. Skilled in building scalable, interactive web applications with clean architecture and efficient workflows. Strong problem-solver with proven ability to design and deliver end-to-end systems in the modern Laravel ecosystem.
 
