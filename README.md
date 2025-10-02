@@ -6,7 +6,7 @@ Full Stack Developer with 3.5+ years of experience specializing in the TALL (Tai
 
 ### 🌱 What I'm Currently Up To
 
-* 🔭 Learning React.js and building a full-stack application with it.
+* 🔭 Learning React.js and building a full-stack application with the RILT (React-Inertia-Laravel-Tailwind) stack.
 
 ---
 
