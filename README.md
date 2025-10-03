@@ -6,7 +6,15 @@ Full Stack Developer with 3.5+ years of experience specializing in the TALL (Tai
 
 ### 🌱 What I'm Currently Up To
 
-* 🔭 Learning React.js and building a full-stack application with the RILT (React-Inertia-Laravel-Tailwind) stack.
+* I'm passionate about continuous learning and staying on the cutting edge of development. Here's a snapshot of my current focus:
+* **🔭 Learning React.js and building a full-stack application with the RILT (React-Inertia-Laravel-Tailwind) stack.
+* **🤖 Leveraging AI in my Workflow:** I'm actively using AI-powered tools to enhance my productivity and code quality. My current toolkit includes:
+    * `GitHub Copilot` for intelligent code completion.
+    * `Claude` for brainstorming, debugging, and generating complex logic.
+
+* **🚀 Mastering Modern PHP:** I'm diving deep into the Laravel ecosystem to build robust and scalable applications.
+    * Currently exploring **Laravel Boost** to optimize application performance.
+    * Focusing on building efficient APIs and full-stack applications.
 
 ---
 
